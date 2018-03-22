@@ -1,6 +1,9 @@
 # docker
 Infrustructure as code
-cf.https://qiita.com/t-yotsu/items/559731aca6300eef78ec
+cf.
+- docker
+	- https://qiita.com/t-yotsu/items/559731aca6300eef78ec
+	- resister docker hub:
 - os: vagrant/kickstart
 - library/middleware: chef/puppet/ansible
 - deploy application: capistrano
